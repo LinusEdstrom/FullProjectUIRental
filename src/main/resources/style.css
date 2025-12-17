@@ -1,0 +1,79 @@
+#topLabel {
+    -fx-background-color: cornflowerblue;
+    -fx-text-fill: white;
+    -fx-font-size: 24px;
+    -fx-padding: 15px;
+    -fx-font-weight: bold;
+}
+#movieLabel {
+    -fx-background-color: lightskyblue;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    -fx-padding: 10;
+    -fx-font-weight: BOLD;
+}
+#memberLabel {
+    -fx-background-color: lightskyblue;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    -fx-padding: 10;
+    -fx-font-weight: BOLD;
+}
+#activeRentalsLabel {
+    -fx-background-color: tomato;
+    -fx-text-fill: white;
+    -fx-font-size: 14;
+    -fx-padding: 10;
+    -fx-font-weight: BOLD;
+
+
+}
+
+
+#borderPane {
+    -fx-cursor: hand;
+    -fx-background-color: burlywood;
+}
+.button:hover {
+    -fx-cursor: crosshair;
+}
+#rentButton {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+    -fx-font-size: 24;
+    -fx-background-radius: 50;
+}
+#addButton {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    -fx-background-radius: 50;
+}
+#deleteButton {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-size: 10;
+    -fx-background-radius: 50;
+}
+#returnButton {
+    -fx-background-color: tomato;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    -fx-background-radius: 50;
+}
+#itemAddButton {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+
+    -fx-background-radius: 50;
+}
+#exitButton {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    -fx-background-radius: 50;
+}
+table-view .table-cell {
+    -fx-font-size: 14px;
+
+}

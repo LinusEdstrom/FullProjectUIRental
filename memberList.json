@@ -1,0 +1,49 @@
+[ {
+  "id" : 1,
+  "name" : "LinusLisa",
+  "statusLevel" : "STUDENT"
+}, {
+  "id" : 2,
+  "name" : "Gunvald",
+  "statusLevel" : "STUDENT"
+}, {
+  "id" : 3,
+  "name" : "FiaStina",
+  "statusLevel" : "PREMIUM"
+}, {
+  "id" : 4,
+  "name" : "Kerstin",
+  "statusLevel" : "PREMIUM"
+}, {
+  "id" : 5,
+  "name" : "Nina",
+  "statusLevel" : "STANDARD"
+}, {
+  "id" : 12,
+  "name" : "Sunny",
+  "statusLevel" : "STANDARD"
+}, {
+  "id" : 44,
+  "name" : "Lars",
+  "statusLevel" : "PREMIUM"
+}, {
+  "id" : 56,
+  "name" : "Lars Gunnarrson",
+  "statusLevel" : "STANDARD"
+}, {
+  "id" : 19,
+  "name" : "Krister",
+  "statusLevel" : "STUDENT"
+}, {
+  "id" : 20,
+  "name" : "Anna Banana",
+  "statusLevel" : "PREMIUM"
+}, {
+  "id" : 10,
+  "name" : "Rasmus",
+  "statusLevel" : "STUDENT"
+}, {
+  "id" : 22,
+  "name" : "Molly",
+  "statusLevel" : "PREMIUM"
+} ]

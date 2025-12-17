@@ -1,0 +1,109 @@
+[ {
+  "type" : "Action",
+  "id" : 6,
+  "title" : "tyko",
+  "basePrice" : 12.0,
+  "available" : true,
+  "length" : 145,
+  "explosions" : 7,
+  "coolOneliners" : 23
+}, {
+  "type" : "RomCom",
+  "id" : 135,
+  "title" : "For the Hearth",
+  "basePrice" : 25.0,
+  "available" : true,
+  "length" : 134,
+  "cheeziness" : 5,
+  "hunks" : 2
+}, {
+  "type" : "Action",
+  "id" : 41,
+  "title" : "Brohs in School",
+  "basePrice" : 28.0,
+  "available" : true,
+  "length" : 122,
+  "explosions" : 5,
+  "coolOneliners" : 11
+}, {
+  "type" : "RomCom",
+  "id" : 75,
+  "title" : "CutsieBosie",
+  "basePrice" : 34.0,
+  "available" : true,
+  "length" : 101,
+  "cheeziness" : 16,
+  "hunks" : 1
+}, {
+  "type" : "Action",
+  "id" : 21,
+  "title" : "Hollywood Nights",
+  "basePrice" : 67.0,
+  "available" : true,
+  "length" : 135,
+  "explosions" : 7,
+  "coolOneliners" : 9
+}, {
+  "type" : "RomCom",
+  "id" : 33,
+  "title" : "PickaBuh Pickachu",
+  "basePrice" : 128.0,
+  "available" : true,
+  "length" : 200,
+  "cheeziness" : 22,
+  "hunks" : 6
+}, {
+  "type" : "Action",
+  "id" : 78,
+  "title" : "Four Monkies",
+  "basePrice" : 55.0,
+  "available" : true,
+  "length" : 123,
+  "explosions" : 11,
+  "coolOneliners" : 34
+}, {
+  "type" : "RomCom",
+  "id" : 89,
+  "title" : "Bombay Nights",
+  "basePrice" : 23.0,
+  "available" : true,
+  "length" : 156,
+  "cheeziness" : 21,
+  "hunks" : 4
+}, {
+  "type" : "RomCom",
+  "id" : 145,
+  "title" : "Cute Love Band",
+  "basePrice" : 67.0,
+  "available" : true,
+  "length" : 111,
+  "cheeziness" : 12,
+  "hunks" : 4
+}, {
+  "type" : "Action",
+  "id" : 34,
+  "title" : "Hello mr.President",
+  "basePrice" : 78.0,
+  "available" : true,
+  "length" : 181,
+  "explosions" : 2,
+  "coolOneliners" : 22
+}, {
+  "type" : "Action",
+  "id" : 13,
+  "title" : "Boombs",
+  "basePrice" : 56.0,
+  "available" : true,
+  "length" : 124,
+  "explosions" : 4,
+  "coolOneliners" : 8
+}, {
+  "type" : "RomCom",
+  "id" : 111,
+  "title" : "Beans for babes",
+  "basePrice" : 24.0,
+  "available" : true,
+  "length" : 112,
+  "cheeziness" : 14,
+  "hunks" : 2
+} ]
