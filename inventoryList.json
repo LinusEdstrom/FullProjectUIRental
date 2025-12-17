@@ -26,15 +26,6 @@
   "explosions" : 5,
   "coolOneliners" : 11
 }, {
-  "type" : "RomCom",
-  "id" : 75,
-  "title" : "CutsieBosie",
-  "basePrice" : 34.0,
-  "available" : true,
-  "length" : 101,
-  "cheeziness" : 16,
-  "hunks" : 1
-}, {
   "type" : "Action",
   "id" : 21,
   "title" : "Hollywood Nights",
@@ -105,5 +96,14 @@
   "available" : true,
   "length" : 112,
   "cheeziness" : 14,
+  "hunks" : 2
+}, {
+  "type" : "RomCom",
+  "id" : 44,
+  "title" : "GoodBoy",
+  "basePrice" : 24.0,
+  "available" : true,
+  "length" : 124,
+  "cheeziness" : 8,
   "hunks" : 2
 } ]
